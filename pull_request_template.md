@@ -12,6 +12,6 @@
 
 ### What gif best describes this PR or how it makes you feel?
 
-### **Questions:
+### Questions:
 - Do migrations need to be ran?
 - Are there any additional deployment instructions/requirements?
